@@ -45,6 +45,20 @@ Each model was evaluated and visualized for accuracy and generalization performa
 
 ---
 
+## Model Performance Summary
+
+### Regression Tree Family Breakdown
+![Regression Tree Results](./assets/regression-tree-results.png)
+
+Detailed performance metrics for decision tree variants. Gradient Boosting outperformed the others, followed closely by Random Forest.
+
+### Comparison Across Model Types
+![Model Comparison](./assets/model-comparison.png)
+
+This comparison shows how linear regression, gradient boosting, and neural networks performed. Gradient Boosting achieved the best balance of RMSE and R² score.
+
+---
+
 ## Notebook
 
 > All code, model training, and visualizations are in:  
